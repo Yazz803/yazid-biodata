@@ -173,3 +173,18 @@ body {
   font-family: var(--newroman);
   text-align: var(--center);
 }
+#skill {
+  /* border: var(--border); */
+  padding: 10px 50px 10px 50px;
+  margin: 20px 100px 20px 100px;
+  border-radius: 50px;
+  text-shadow: 10px 10px 3px gray;
+  font-size: 15px;
+  font-family: arial;
+  background-image: var(--gradiendt);
+}
+.halaman5 {
+  color: white;
+  font-family: var(--newroman);
+  text-align: var(--center);
+}
